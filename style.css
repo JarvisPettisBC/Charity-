@@ -1,0 +1,90 @@
+.navbar ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    width: 40%;
+    height: 30pt;
+    font-size: 20pt;
+    outline-style: none;
+    outline-color: rgba(33, 17, 3);
+    opacity: 100%;
+    
+  }
+  li{
+    font-size: 15pt;
+    /* color: rgb(240,234,214); */
+    float: left;
+    padding: 15pt;
+    font-weight: 200;
+
+  }
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    
+  }
+body{
+    background-image: url("images/single_mother.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    height: 100%; 
+    opacity: 0.6;
+    font-size: 50pt;
+  }
+
+ 
+  .title_class{
+    font-size: 20pt;
+    color: black;
+  }
+  .page_title{
+    font-size: 20pt;
+    border-style: ridge;
+    border-color: azure;
+    background-color: rgb(255, 238, 147);
+    width: 100%;
+    opacity: 50%;
+    text-align: center;
+    position: fixed;
+    margin-top: 10pt;
+  }
+
+  h1{
+    margin-top: 60pt;
+    font-size: 50pt;
+    text-align: center;
+    color: rgba(235, 250, 78);
+
+  }
+  .footer{
+    height: 100px;
+    width: 100%;
+    /* background-color: rgba(255, 238, 147); */
+    background-color: none;
+    position: fixed;
+    bottom: 0;
+    border-style: hidden;
+    opacity: 50%;
+  }
+  h2{
+    font-size: 30pt;
+    color: rgb(235, 250, 78);
+  }
+  .statement{
+    font-size: 15pt;
+    color: white;
+    text-align: left;
+    word-wrap: break-word;
+    width: 30%;
+  }
+  .second{
+    height: 10%;
+    width: 20%;
+    margin-top: 30pt
+  }
+  
